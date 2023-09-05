@@ -78,6 +78,11 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
+"@snyk/protect@^1.1211.0":
+  version "1.1211.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1211.0.tgz#b882f6d38a845ce93f60e757fe745943a4211fe9"
+  integrity sha512-MU7DQmIIdNFFFP3XjQtTXoAwIEtpx38ZzUGRmXqrz9EM9Zhv1IO8TArzmGAbrQ5jwlawPM9MSjLGptX88YH/zQ==
+
 "@types/jss@^9.3.0":
   version "9.5.0"
   resolved "https://registry.yarnpkg.com/@types/jss/-/jss-9.5.0.tgz#65d9b5c61f1e95ad3acd53e9a8b2d2342aa917e8"
