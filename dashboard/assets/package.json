@@ -16,7 +16,7 @@
         "escape-html": "^1.0.3",
         "eslint": "^4.16.0",
         "eslint-config-airbnb": "^16.1.0",
-        "eslint-loader": "^2.0.0",
+        "eslint-loader": "^3.0.0",
         "eslint-plugin-flowtype": "^2.41.0",
         "eslint-plugin-import": "^2.8.0",
         "eslint-plugin-jsx-a11y": "^6.0.3",
