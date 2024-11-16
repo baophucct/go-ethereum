@@ -14,7 +14,7 @@
         "classnames": "^2.2.5",
         "css-loader": "^0.28.9",
         "escape-html": "^1.0.3",
-        "eslint": "^4.16.0",
+        "eslint": "^9.15.0",
         "eslint-config-airbnb": "^16.1.0",
         "eslint-loader": "^2.0.0",
         "eslint-plugin-flowtype": "^2.41.0",
